@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "228928622650",
+    "firebase_url": "https://kisan-347e0.firebaseio.com",
+    "project_id": "kisan-347e0",
+    "storage_bucket": "kisan-347e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228928622650:android:2dab23576cb950b3376503",
+        "android_client_info": {
+          "package_name": "com.kisanmate.kisanconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228928622650-e8pfanhttecfprspaqig033bcel0dv1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_YawMrozAwdGbKqFGbU2LVgNUzPRoyNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228928622650-e8pfanhttecfprspaqig033bcel0dv1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
